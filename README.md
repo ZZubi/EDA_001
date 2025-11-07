@@ -18,7 +18,7 @@ El EDA está diseñado para probar y validar las siguientes **cuatro hipótesis*
 
 * Instagram y Tik Tok son las redes sociales donde, de media, más horas dedican los participantes de la encuesta
 
-* Los usuarios de las 2 redes sociales donde más horas invierten de media los encuestados, puntuan en la **Bergen Social Media Addiction Scale** como más adictos que aquellos encuestados que invierten menos horas
+* Los usuarios de las 2 redes sociales donde más horas invierten de media los encuestados, puntuan en la **Bergen Social Media Addiction Scale** como más adictos que aquellos encuestados con preferencia por otras redes sociales
 
 * Los usuarios de las 2 redes sociales donde más horas invierten de media los encuestados, perciben que el uso de las redes sociales afecta negativamente a su rendimiento académico
 
